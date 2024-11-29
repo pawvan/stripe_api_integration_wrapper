@@ -25,6 +25,4 @@ res.status(500).json({
 }
 
 }
-module.exports ={
-    createPayment
-}
+md

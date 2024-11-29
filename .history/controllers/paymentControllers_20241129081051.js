@@ -26,5 +26,5 @@ res.status(500).json({
 
 }
 module.exports ={
-    createPayment
+    creat
 }
