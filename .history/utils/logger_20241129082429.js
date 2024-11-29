@@ -17,7 +17,6 @@ const logger  =winston.createLogger({
             format:winston.format.simple(),
 
         }),
-
+        
     ]
 })
-module.exports=logger
