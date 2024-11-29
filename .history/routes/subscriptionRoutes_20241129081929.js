@@ -13,6 +13,5 @@ const {createSubscription} = require('../services/stripeServices')
 
 const router = express.Router()
 
-router.post('/create',createSubscription)
+router.post('/create',)
 
-module.exports=router

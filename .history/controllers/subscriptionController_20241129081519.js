@@ -10,7 +10,7 @@
 */
 
 const {createSubscription } = require('../services/stripeServices')
-const handleCreateSubscription = async (req,res,next)=>{
+const createSubscription = async (req,res,next)=>{
     try{
         const {customerId,priceId} = res.body;
 const subscription  = await createSubscription(customerId,priceId)
@@ -28,5 +28,5 @@ next(error)
 
 
 module.exports = {
-    handleCreateSubscription
+    
 }

@@ -30,6 +30,5 @@ createPayment
 
 
 
-router.post('/create',createPayment)
+router.post('/create',createPaymentIntent)
 
-module.exports=router

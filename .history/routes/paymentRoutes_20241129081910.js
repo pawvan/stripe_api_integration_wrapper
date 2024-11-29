@@ -32,4 +32,3 @@ createPayment
 
 router.post('/create',createPayment)
 
-module.exports=router

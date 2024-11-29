@@ -17,9 +17,9 @@ const express = require('express')
 
 
 const {
-createPayment
+createPaymentIntent
 }
- =require('../controllers/paymentControllers')
+ =require('../services/stripeServices')
 
 
  const router  = express.Router()
@@ -30,6 +30,24 @@ createPayment
 
 
 
-router.post('/create',createPayment)
+router.post('/create',async (r0eq,res)=>{
+   
+con
+cont createPaymentIntent(amount)
+res
+   
+   entIntent.client_secret
+   
+)
 
-module.exports=router
+}
+   
+   son(
+   
+   or.message
+   
+   
+
+   
+})
+

@@ -28,5 +28,5 @@ next(error)
 
 
 module.exports = {
-    handleCreateSubscription
+    
 }
