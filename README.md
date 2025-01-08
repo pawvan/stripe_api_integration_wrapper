@@ -143,8 +143,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## **Contact**
 
 If you have any questions or feedback about this project, feel free to reach out:
-
 - **Email**: pawanpediredla@gmail.com
 - **GitHub**: [github.com/yourusername/stripe_api_integration_wrapper](https://github.com/pawvan/stripe_api_integration_wrapper)
-
 ---
